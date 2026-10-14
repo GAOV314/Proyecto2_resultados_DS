@@ -1,0 +1,6 @@
+modelo,mejor_f1_macro_cv,mejores_parametros,seg_tuning
+LogReg + R1,0.5580236741376976,{'clf__C': 1},
+SVM lineal + R1 (búsqueda de C),0.5699225612508263,{'clf__C': 0.1},
+HGB + R1densa,0.5717261960426842,"{'max_leaf_nodes': 127, 'max_iter': 300, 'learning_rate': 0.04}",
+HGB + R2,0.5774327021336185,"{'max_leaf_nodes': 63, 'max_iter': 200, 'learning_rate': 0.06}",
+LogReg + R2,0.5471610951537023,{'C': 10},

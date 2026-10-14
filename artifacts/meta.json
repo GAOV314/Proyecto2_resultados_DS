@@ -1,0 +1,15 @@
+{
+  "clases": [
+    "Ineffective",
+    "Adequate",
+    "Effective"
+  ],
+  "modelo_ganador": "HGB + R2",
+  "sentence_transformer": "all-MiniLM-L6-v2",
+  "columnas_entrada": [
+    "discourse_text_clean",
+    "discourse_type",
+    "log_chars",
+    "log_words"
+  ]
+}
